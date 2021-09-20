@@ -42,8 +42,7 @@
         <input type="submit" value="Submit" />
     </p>
 </form>
-    <!-- <input type="submit" value="Submit"> -->
-<!-- </form> -->
+
 
 <script type="text/javascript">
     window.onload=function(){
